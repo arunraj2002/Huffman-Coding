@@ -24,6 +24,8 @@ Calculate frequency of occurrence.
 Print the characters and its huffmancode.
 
 ## Program:
+### Developed By    : R ARUNRAJ
+### Register Number : 212220230004
 ``` Python
 # Get the input String
 string = 'Arun'
